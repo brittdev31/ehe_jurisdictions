@@ -13,12 +13,10 @@ The Ending the HIV Epidemic in the U.S. (EHE) initiative uses six HIV data indic
 
 --------------------------
 
-from pgeocode:
-
 "Postal Code Geocoding and Distance Calculations
 
 pgeocode is a Python library for high performance off-line querying of GPS coordinates, region name and municipality name from postal codes. Distances between postal codes as well as general distance queries are also supported. The used GeoNames database includes postal codes for 83 countries.
 
 Currently, only queries within the same country are supported.
 
-For additional documentation see [pgeocode.readthedocs.io](https://pgeocode.readthedocs.io/en/latest/)https://pgeocode.readthedocs.io/en/latest/"
+For additional documentation see [pgeocode.readthedocs.io](https://pgeocode.readthedocs.io/en/latest/)https://pgeocode.readthedocs.io/en/latest/" - pgeocode
