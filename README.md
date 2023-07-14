@@ -1,6 +1,6 @@
 # ehe_jurisdictions
 
-This repository aims to serve as a resource for researchers intersted in quantifying the impact of the [Ending the HIV Epidemic (EHE)](https://www.cdc.gov/endhiv/about-ehe/index.html) initiative in the United States (US) first outlined by the US Department of Health and Human Services (DHHS) in 2019. Within the reposity is basic geographical data and indicators for each of 48 counties and 7 states identified by zip/postal code. The dataset includes data from the [pgeocode](https://github.com/symerio/pgeocode) repository and EHE Priority Jurisdictions as defined in 2020.
+This repository aims to serve as a resource for researchers interested in quantifying the impact of the [Ending the HIV Epidemic (EHE)](https://www.cdc.gov/endhiv/about-ehe/index.html) initiative in the United States (US) first outlined by the US Department of Health and Human Services (DHHS) in 2019. Within the repository is basic geographical data and indicators for each of 48 counties and 7 states identified by zip/postal code. The dataset includes data from the [pgeocode](https://github.com/symerio/pgeocode) repository and EHE Priority Jurisdictions as defined in 2020.
 
 ![ehe_jurisdictions](https://github.com/brittdev31/ehe_jurisdictions/assets/15785459/d1424554-9cbc-4991-b3a9-ca07745f9c4d)
 
@@ -20,3 +20,4 @@ pgeocode is a Python library for high performance off-line querying of GPS coord
 Currently, only queries within the same country are supported.
 
 For additional documentation see [pgeocode.readthedocs.io](https://pgeocode.readthedocs.io/en/latest/)https://pgeocode.readthedocs.io/en/latest/" - pgeocode
+
