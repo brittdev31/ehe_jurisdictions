@@ -19,5 +19,5 @@ pgeocode is a Python library for high performance off-line querying of GPS coord
 
 Currently, only queries within the same country are supported.
 
-For additional documentation see [pgeocode.readthedocs.io](https://pgeocode.readthedocs.io/en/latest/)https://pgeocode.readthedocs.io/en/latest/" - pgeocode
+For additional documentation see [pgeocode.readthedocs.io](https://pgeocode.readthedocs.io/en/latest/)" - pgeocode
 
