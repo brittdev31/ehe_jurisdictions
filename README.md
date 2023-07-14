@@ -1,6 +1,6 @@
 # ehe_jurisdictions
 
-This repository aims to serve as a resource for researchers intersted in quantifying the impact of the Ending the HIV Epidemic iniciative in the United States (US) first launched by the US Department of Health and Human Services in 2019. Within the reposity is all availble geographical data and indicators for each county of 48 counties and 7 states merged by FIPS code and zip/postal code. 
+This repository aims to serve as a resource for researchers intersted in quantifying the impact of the Ending the HIV Epidemic (EHE) iniciative in the United States (US) first launched by the US Department of Health and Human Services (DHHS) in 2019. Within the reposity is all availble geographical data and indicators for each county of 48 counties and 7 states merged by FIPS code and zip/postal code. 
 
 ![ehe_jurisdictions](https://github.com/brittdev31/ehe_jurisdictions/assets/15785459/d1424554-9cbc-4991-b3a9-ca07745f9c4d)
 
